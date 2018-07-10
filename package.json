@@ -1,0 +1,39 @@
+{
+  "name": "node-typeof",
+  "version": "0.0.1",
+  "description": "Better typeof with Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "typeof"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ThunbergOlle/type.js.git"
+  },
+  "keywords": [
+    "typeof",
+    "type-js",
+    "typeof javascript",
+    "node-type",
+    "is string",
+    "check string value",
+    "check value type",
+    "type",
+    "js.type",
+    "is string",
+    "check values js",
+    "check if it's a number",
+    "check number",
+    "typeof()",
+    "better typeof",
+    "check if string value",
+    "value string",
+    "string-node"
+  ],
+  "author": "OlleThunberg <olle.thunberg03@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThunbergOlle/type.js/issues"
+  },
+  "homepage": "https://github.com/ThunbergOlle/type.js#readme"
+}
